@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+li{
+    list-style: none;
+    padding-left: 0.5rem;
+}
+
+div{
+    height: 200px;
+    background-color: aqua;
+    margin-top: 0.4rem;
+    padding-top: 1rem;
+}
+
+.head>ul>li{
+    color: antiquewhite;
+}
+
+.content>ul>li{
+    color: rgb(181, 120, 40);
+}
+
+.footer>ul>li{
+    color: rgb(201, 180, 22);
+}
